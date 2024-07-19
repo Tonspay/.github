@@ -4,6 +4,13 @@ Hello welcome to Tonsprotocol team's github repo . It's wellknown as the develop
 
 In this group we will publish many opensource SDK/DEMO and Example of our running project . 
 
+# 📱 You can contact us via : 
+
+- [Twitter/X](https://x.com/tonsprotocols)
+- [Dorahack](https://dorahacks.io/hacker/U_e8f8304a8683e)
+- [Telegram](http://t.me/wikig16)
+    
+
 # 🌈Now we are running follow projects : 
 
 - ### 💰 Tonspay - payment service
@@ -75,9 +82,3 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
   - [Open source Bot Code](https://github.com/Tonspay/Tokenshare_bot)
   - [Open source Webapp Code](https://github.com/Tonspay/Tokenshare_fontend)
 
-## You can contact us via : 
-
-- [Twitter/X](https://x.com/tonsprotocols)
-- [Dorahack](https://dorahacks.io/hacker/U_e8f8304a8683e)
-- [Telegram](http://t.me/wikig16)
-    
