@@ -82,3 +82,21 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
   - [Open source Bot Code](https://github.com/Tonspay/Tokenshare_bot)
   - [Open source Webapp Code](https://github.com/Tonspay/Tokenshare_fontend)
 
+# 🌚 Recently TODO/TOFIXED :
+  - ### Tonspack wallet 
+    - Font-end rebuild
+    - SDK rebuild/publish
+    - Document update
+    - Pull request to Raydium / Jupiter / Pump.fun
+  - ### Deeplinker
+    - SDK build
+    - Document Update
+  - ### TGBA game (A Telegram webapp base GBA emulator base on [GBA.JS](https://github.com/andychase/gbajs2)
+    - Font-end build
+    - Back-end build
+    - Cloud save file system build (base on IPFS)
+    - Contract build (mark your save into NFT)
+  - ### DSDR ( Decentralized SDR network . Depin trace )
+    - Logic map & Document
+    - Network contract build
+    - Website font-end build
