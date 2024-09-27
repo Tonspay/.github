@@ -1,6 +1,6 @@
 # 👋 Hi , We are tonsprotocol team !
 
-Hello welcome to Tonsprotocol team's github repo . It's wellknown as the developer team of [Tonspay-protocol](https://www.tonspay.top/) . 
+Hello welcome to Tonsprotocol team's github repo . It's wellknown as the developer team of [Tonspack-wallet](https://www.tonspack.com/) & [Tonspay-protocol](https://www.tonspay.top/) . 
 
 In this group we will publish many opensource SDK/DEMO and Example of our running project . 
 
