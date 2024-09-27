@@ -82,6 +82,19 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
   - [Open source Bot Code](https://github.com/Tonspay/Tokenshare_bot)
   - [Open source Webapp Code](https://github.com/Tonspay/Tokenshare_fontend)
 
+- ### 🕸 Tonshort Bot
+  A URL shorter service tools for TON proxy & TON site . Allows anyone to redirect their `.adnl` or `.ton` domain with Tonshort .
+  - [Bot](https://t.me/tonshort_bot)
+  - [TonSite](tonsite://hiddenproxy.ton)
+  - [Open source redirect code](https://github.com/Tonspay/Hiddenproxy-back-end)
+
+- ### 🍎 TON Hiddenwiki
+  The hiddenwiki site of TONproxy & TONsite . An indexer of all illegal `.ton` `.adnl` site . TONproxy version Hiddenwiki
+  - [Public Site](https://hiddenwiki.tons.ink/)
+  - [TON site](tonsite://hiddenwikis.ton)
+  - [Bot](https://t.me/hiddenwikis_bot)
+  - [Open source Indexer](https://github.com/Tonspay/TONsite-Hiddenwiki)
+
 # 🌚 Recently TODO/TOFIXED :
   - ### Tonspack wallet 
     - Font-end rebuild
@@ -96,7 +109,8 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
     - Back-end build
     - Cloud save file system build (base on IPFS)
     - Contract build (mark your save into NFT)
-  - ### DSDR ( Decentralized SDR network . Depin trace )
+  - ### Web3SDR ( Decentralized SDR network . Depin trace )
     - Logic map & Document
     - Network contract build
+        - TON proxy network layer
     - Website font-end build
