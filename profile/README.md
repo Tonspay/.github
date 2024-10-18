@@ -108,6 +108,11 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
   - [Bot](https://t.me/hiddenwikis_bot)
   - [Open source Indexer](https://github.com/Tonspay/TONsite-Hiddenwiki)
 
+- ### 📻 Web3SDR ( Decentralized SDR network . Depin trace )
+    - [Website](https://web3sdr.xyz/)
+    - [Document](https://docs.web3sdr.xyz/)
+    - [WhitePaper](https://docs.web3sdr.xyz/whitepaper/whitepaper)
+    
 # 🌚 Recently TODO/TOFIXED :
   - ### Tonspack wallet 
     - Font-end rebuild
@@ -122,8 +127,3 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
     - Back-end build
     - Cloud save file system build (base on IPFS)
     - Contract build (mark your save into NFT)
-  - ### Web3SDR ( Decentralized SDR network . Depin trace )
-    - Logic map & Document
-    - Network contract build
-        - TON proxy network layer
-    - Website font-end build
