@@ -46,6 +46,19 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
     - [Dapp](http://t.me/tonspack_bot/minidemo)
     - [Source code](https://github.com/Tonspay/Tonspack-demo-and-SDK)
 
+- ### 🔧 Telegram Cloudsotrage Non-custodial SDK
+    Best way to build a internal Non-custodial multichain wallet on your Telegram Dapp .
+  - [Website](https://www.tonspack.com/sdk.html)
+  - [Document](https://docs.tonspack.com/sdk/hd-wallet-sdk)
+  - HDWallet SDK
+      - [Source Code](https://github.com/Tonspay/Tonspack-HD-generator)
+      - [Npm](https://www.npmjs.com/package/@tonsprotocol/hdwallet)
+      - [Document](https://docs.tonspack.com/sdk/hd-wallet-sdk)
+  - Cloudstorage SDK
+      - [Source Code](https://github.com/Tonspay/Telegram-Webapp-CloudStorag-Multichain-Wallet-Solution)
+      - [Npm](https://www.npmjs.com/package/@tonsprotocol/telegram-cloudstorage-wallet)
+      - [Document](https://docs.tonspack.com/sdk/cloudstorage-wallet-sdk)
+
 - ### 🧙 Tonshive - stay-to-earn SDK
   An XMR base telegram-webapp stay-to-earn SDK & Service .
   - [Website](https://tonshive.xyz/)
