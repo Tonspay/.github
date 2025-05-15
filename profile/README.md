@@ -13,8 +13,16 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
 
 # 🌈Now we are running follow projects : 
 
-- ### 💰 Tonspay - payment service
-  The mobile crypto payment system base on Telegram webapp .
+- ### 🍿 Tonscard - TON crypto prepaid card service
+  A Ton chain base multi-chain crypto prepaid card service
+  - [Website](https://tons.credit/)
+  - [Document](https://tonscriptions.gitbook.io/tonscard)
+  - [Dorahack](https://dorahacks.io/buidl/12675)
+  - [Website Source Code](https://github.com/Tonspay/Tonscard-website)
+  - [Building Road Map](https://github.com/Tonspay/Tonscard-building-map)
+    
+- ### 💰 Tonspay - payment service [Warning : This service been aborted . Use for open source usage only .]
+  ~~The mobile crypto payment system base on Telegram webapp .~~
   - [Website](https://www.tonspay.top/)
   - [Document](http://docs.tonspay.top/)
   - [Main Bot](https://t.me/tonspay_bot)
@@ -59,8 +67,8 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
       - [Npm](https://www.npmjs.com/package/@tonsprotocol/telegram-cloudstorage-wallet)
       - [Document](https://docs.tonspack.com/sdk/cloudstorage-wallet-sdk)
 
-- ### 🧙 Tonshive - stay-to-earn SDK
-  An XMR base telegram-webapp stay-to-earn SDK & Service .
+- ### 🧙 Tonshive - stay-to-earn SDK [Warning , this service been aborted . Used for open-source demo only]
+  ~~An XMR base telegram-webapp stay-to-earn SDK & Service .~~
   - [Website](https://tonshive.xyz/)
   - [Document](http://docs.tonshive.xyz/)
   - [Dorahack](https://dorahacks.io/buidl/13195)
@@ -80,14 +88,6 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
   - [Document](https://docs.tonspay.top/tonsbridge/genral)
   - [Dorahack](https://dorahacks.io/buidl/11549)
   - [Source Code](https://github.com/Tonspay/Tonsbridge-EVM)
-
-- ### 🍿 Tonscard - TON crypto prepaid card service
-  A Ton chain base multi-chain crypto prepaid card service
-  - [Website](https://tonscard.com/)
-  - [Document](http://docs.tonscard.com/)
-  - [Dorahack](https://dorahacks.io/buidl/12675)
-  - [Website Source Code](https://github.com/Tonspay/Tonscard-website)
-  - [Building Road Map](https://github.com/Tonspay/Tonscard-building-map)
 
 - ### 👬🏻 Token share Bot
   The telegram token search and share bot . Once click purchas sharing BOT .
