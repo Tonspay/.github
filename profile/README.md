@@ -13,6 +13,10 @@ In this group we will publish many opensource SDK/DEMO and Example of our runnin
 
 # 🌈Now we are running follow projects : 
 
+- ### 🔒 Moneropen - First TMA monero wallet
+  A simple open-source monero wallet GUI with privacy transaction service .
+  - [TMA](https://github.com/Tonspay/Moneropen-TMA)
+
 - ### 🍿 Tonscard - TON crypto prepaid card service
   A Ton chain base multi-chain crypto prepaid card service
   - [Website](https://tons.credit/)
